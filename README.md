@@ -46,6 +46,7 @@ Information you'll need to run the Graph Authentication app:
 ## Using the Microsoft Graph Authentication Sample app
 
 1. Launching the sample app will display the sample app's UI
+
 ![Graph Authentication Sample App UI](readme-images/Default_screen.png)
 
 2. Enter the App ID in the text box at the top of the page
@@ -56,7 +57,9 @@ Information you'll need to run the Graph Authentication app:
 
 2. Sign in with your work or school account.
 
-3. The Sample app UI will display the Auth token in the left pane as we see below ![Graph Authentication Sample - User delegated Authorization](readme-images/User_delegated_auth.png)
+3. The Sample app UI will display the Auth token in the left pane as we see below 
+
+![Graph Authentication Sample - User delegated Authorization](readme-images/User_delegated_auth.png)
 
 * The **scp** property (highlighted) shows the scopes or permissions granted to the user
 * The **wids** property shows the GUIDs of the user groups the signed-in user belongs to
@@ -73,14 +76,18 @@ Information you'll need to run the Graph Authentication app:
 * Enter the AAD tenant ID (you can grab this from the "azureTenantId" property in the response in the User delegated auth flow above)
 * Click the **Send request** button. 
 
-2. The Sample app UI will display the Application-only Auth token in the left pane as we see below ![Graph Authentication Sample - Application-only Authorization](readme-images/App_only_auth.png)
+2. The Sample app UI will display the Application-only Auth token in the left pane as we see below 
+
+![Graph Authentication Sample - Application-only Authorization](readme-images/App_only_auth.png)
 
 * Here the **roles** property (highlighted) shows the scopes or permissions granted to the application
 * The JSON response to the REST query is the same as in the previous example
 
 ## The Help tab
 
-The **Help** tab contains some common errors, the reason they occur, and ways to resolve (fix) them ![Graph Authentication Sample - Help tab](readme-images/Help_tab.png)
+The **Help** tab contains some common errors, the reason they occur, and ways to resolve (fix) them 
+
+![Graph Authentication Sample - Help tab](readme-images/Help_tab.png)
 
 ## Resources
 
