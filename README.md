@@ -12,7 +12,7 @@ Microsoft Graph Security API supports two types of application authentication an
 Here the permissions/scopes granted to the application determine authorization
 * **User delegated authorization**, where a user who is a member of the AAD tenant is signed in.
 
-To call the Microsoft Graph Security API, the user must belong to the AAD Security Reader Limited Admin role, the required permissions (aka scopes) must be defined in the **application registration** at(http://aps.dev.microsoft.com), and the application must be granted the required permissions by the Azure AD tenant Administrator. This process is also described in the [Microsoft Graph Security API Sample for ASP.NET 4.6 (REST)](https://github.com/microsoftgraph/aspnet-security-api-sample)
+To call the Microsoft Graph Security API, the user must belong to the AAD Security Reader Limited Admin role, the required permissions (aka scopes) must be defined in the [**application registration**](http://apps.dev.microsoft.com), and the application must be granted the required permissions by the Azure AD tenant Administrator. This process is also described in the [Microsoft Graph Security API Sample for ASP.NET 4.6 (REST)](https://github.com/microsoftgraph/aspnet-security-api-sample)
 
 This sample Graph Authentication application provides more visibility into both types of AuthNZ when calling the Microsoft Graph Security API, by displaying the contents of the auth token as well as the response contents and headers.
 The application has one tab for User delegated authentication and another for Application-only authentication. 
