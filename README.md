@@ -85,7 +85,7 @@ The **Help** tab contains some common errors, the reason they occur, and ways to
 ## Resources
 
 Documentation:
-* [Understanding authorization when calling the Microsoft Graph Surity API](https://techcommunity.microsoft.com/t5/Using-Microsoft-Graph-Security/Authorization-and-Microsoft-Graph-Security-API/m-p/184376#M2)
+* [Understanding authorization when calling the Microsoft Graph Security API](https://techcommunity.microsoft.com/t5/Using-Microsoft-Graph-Security/Authorization-and-Microsoft-Graph-Security-API/m-p/184376#M2)
 * [Microsoft Graph permissions reference](https://developer.microsoft.com/en-us/graph/docs/concepts/permissions_reference)
 
 Other Samples:
