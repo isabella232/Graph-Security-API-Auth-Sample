@@ -26,13 +26,13 @@ Information you'll need to run the Graph Authentication app:
 * **App ID** - from application registration (all you need for User delegated authentication)
 ![For Application-only authentication] (in addition to the App ID)
 * **App Key** (aka App Secret) - also from application registration
-* **Tenant ID (ID of your Azure AD tenant) - this is a mandatory property of any Microsoft Graph Security API entity (response)
+* **Tenant ID** (ID of your Azure AD tenant) - this is a mandatory property of any Microsoft Graph Security API entity (response)
 
 ## Getting started with the Graph Authentication Sample app
 
  1. Download or clone the Microsoft Graph Authentication Sample.
 
- 2. If you haven't registered an application, defined required permissions and explicitly granted these permissions, follow the instructions in the  [Microsoft Graph Security API Sample for ASP.NET 4.6 (REST)](https://github.com/microsoftgraph/aspnet-security-api-sample) to do so. (Be sure to save the App Key (aka App Secret) when you register the sample application).
+ 2. If you haven't registered an application, defined required permissions and explicitly granted these permissions, follow the instructions in the [Microsoft Graph Security API Sample for ASP.NET 4.6 (REST)](https://github.com/microsoftgraph/aspnet-security-api-sample) to do so. (Be sure to save the App Key (aka App Secret) when you register the sample application).
 
  3. Be sure to add **native application** on the application registration page if you're running the ASP.NET sample. This is required for the Microsoft Graph Security Authentication Sample App.
  
@@ -46,7 +46,7 @@ Information you'll need to run the Graph Authentication app:
 ## Using the Microsoft Graph Authentication Sample app
 
 1. Launching the sample app will display the sample app's UI
-![Graph Authentication Sample App UI](readme-images/Default_screen.PNG)
+![Graph Authentication Sample App UI](readme-images/Default_screen.png)
 
 2. Enter the App ID in the text box at the top of the page
 
