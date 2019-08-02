@@ -1,3 +1,18 @@
+---
+page_type: sample
+products:
+- ms-graph
+languages:
+- csharp
+extensions:
+  contentType: samples
+  technologies:
+  - Mcirosoft Graph
+  - Microsoft Graph
+  services:
+  - Security
+  createdDate: 4/19/2018 10:35:33 AM
+---
 # C# Microsoft Graph Authentication sample application
 
 ## Introduction
