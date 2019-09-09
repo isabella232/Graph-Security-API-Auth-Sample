@@ -4,6 +4,7 @@ products:
 - ms-graph
 languages:
 - csharp
+description: "Security data accessible via the Microsoft Graph Security API is very sensitive and therefore protected by permissions and Azure AD roles."
 extensions:
   contentType: samples
   technologies:
