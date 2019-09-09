@@ -10,7 +10,7 @@ extensions:
   - Mcirosoft Graph
   - Microsoft Graph
   services:
-  - Security
+  - Security 
   createdDate: 4/19/2018 10:35:33 AM
 ---
 # C# Microsoft Graph Authentication sample application
