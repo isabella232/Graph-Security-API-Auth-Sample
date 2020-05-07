@@ -1,20 +1,10 @@
----
-page_type: sample
-products:
-- ms-graph
-languages:
-- csharp
-description: "Security data accessible via the Microsoft Graph Security API is very sensitive and therefore protected by permissions and Azure AD roles."
-extensions:
-  contentType: samples
-  technologies:
-  - Mcirosoft Graph
-  - Microsoft Graph
-  services:
-  - Security 
-  createdDate: 4/19/2018 10:35:33 AM
----
-# C# Microsoft Graph Authentication sample application
+# [ARCHIVED] C# Microsoft Graph Authentication sample application
+
+## IMPORTANT
+
+**This project is being archived and replaced with the [Microsoft Graph Security API quick starts](https://aka.ms/graphsecurityquickstarts/). As part of the archival process, we're closing all open issues and pull requests.**
+
+**You can continue to use this sample "as-is", but it won't be maintained moving forward. We apologize for any inconvenience.**
 
 ## Introduction
 
